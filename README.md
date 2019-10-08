@@ -1,4 +1,4 @@
-## Erni Development Day [2019]
+## Introduction to Phaser.JS
 ![screenshot](http://phaser.io/images/img.png)
 
     * PhaserJs
@@ -24,7 +24,11 @@
 ## Credits
 
 https://github.com/troyedwardsjr/phaser3-typescript-webpack
-       
+
+
+## Video
+
+https://www.youtube.com/watch?v=7YMEwnismSg
 
 
 

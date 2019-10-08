@@ -28,5 +28,5 @@ https://github.com/troyedwardsjr/phaser3-typescript-webpack
 
 ## Meetup link and session video
 
-    * https://www.meetup.com/frontend-barcelona/events/262090538/
-    * https://www.youtube.com/watch?v=7YMEwnismSg
+    * Meetup: https://www.meetup.com/frontend-barcelona/events/262090538/
+    * Video: https://www.youtube.com/watch?v=7YMEwnismSg

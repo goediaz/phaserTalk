@@ -1,9 +1,9 @@
 {
     "name": "phaserjs-webpack-ts",
     "version": "1.0.0",
-    "description": "EDD Frontend Community 2019: PhaserJS",
+    "description": "EDD Frontend Community 2021: PhaserJS",
     "main": "src/main.ts",
-    "license": "2019 ERNI Consulting",
+    "license": "2021 ERNI Consulting",
     "repository": {
         "url": "https://github.com/erniespfrontendcommunity/phaserTalk"
     },
